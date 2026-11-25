@@ -1,0 +1,6 @@
+{
+  "name": "Solar Intelligence System",
+  "description": "AI-assisted monitoring, forecasting, performance analysis, and maintenance support platform for commercial solar power installations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
